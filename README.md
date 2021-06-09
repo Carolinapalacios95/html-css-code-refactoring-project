@@ -1,11 +1,8 @@
-# HTML, CSS, and Git: Code Refactoring Project
+# HTML & CSS: Code Refactoring Project
 
 >## My Task
 
-  **Refactoring** existing code (improving it without changing what it does) in order to meet a certain set of standards or to implement a new technology to practice common tasks for front-end and junior developers. For this particular assignment, I've refactored an existing site to make it more accessible as well as making the code itself easier to read. 
-
-
-  I've also improved the codebase for long-term sustainability. For example, I've checked that all links are functioning correctly. I've also increased the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before certain elements or sections of the page where organizational changes were made.
+  **Refactoring** existing code (improving it without changing what it does) in order to meet a certain set of standards or to implement a new technology to practice common tasks for front-end and junior developers. For this particular assignment, I've refactored an existing site to make it more accessible as well as making the code itself easier to read. In addition, in order to increase efficiency and functionality, I've met html semantic standards and properly consolidated the CSS code.
 
 
 >## Code Style & Tech/Framework Used
@@ -20,29 +17,18 @@ The following image shows the web application's appearance and functionality:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 
->## Acceptance Criteria
+>## Features
 
-  I've utilized the following criteria in order to meet html semantic standards and properly consolidate CSS code in order to increase efficiency and functionality.
+* Improved the codebase for long-term sustainability by checking that all links are functioning correctly. 
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+* Added alt attributes to all the links on the page in order to make the site more accessible.
+
+* Increased the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and included comments before certain elements or sections of the page where organizational changes were made.
+
+
 ## Credits
 
-
-
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
+The initial repo which motivated me to build this project can be found at [fullstack-may-2021 repository on Gitlab](https://unc.bootcampcontent.com/dbilenkin-KJyiXJ/fullstack-may-2021/tree/master).
 
 
 ## License
